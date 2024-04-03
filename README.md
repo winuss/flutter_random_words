@@ -1,5 +1,7 @@
 # 첫 번째 Flutter 앱
 
+![preview](https://github.com/winuss/flutter_random_words/blob/main/data/word.gif?raw=true)
+
 **학습할 내용**
 
 - Flutter 작동 방식의 기본사항
